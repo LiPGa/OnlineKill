@@ -1,0 +1,7 @@
+<view class="index-top">
+  <image src="/imgs/7.png"></image>
+  <text>天黑请闭眼~~</text>
+</view>
+<view class="index-btn-wrap">
+  <navigator class="index-btn" url="/pages/createroom/createroom" open-type="navigate" hover-class="index-button-hover">快速开始</navigator>
+</view>

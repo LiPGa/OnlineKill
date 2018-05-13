@@ -1,0 +1,46 @@
+
+{
+  "pages":[
+    "pages/index/index",
+    "pages/leisure/leisure",
+    "pages/league/league",
+    "pages/createroom/createroom",
+    "pages/room/room",
+    "pages/game/game",
+    "pages/info/info"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#2F3E75",
+    "navigationBarTitleText": "OnlineKill！",
+    "navigationBarTextStyle":"#ffffff"
+  },
+  "tabBar": {
+    "backgroundColor":"#FFFFFF",
+    "color":"#595959",
+    "borderStyle":"black",
+    "selectedColor":"#5874fa",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath":"imgs/1.png"
+      },
+      {
+        "pagePath": "pages/leisure/leisure",
+        "text": "休闲",
+        "iconPath": "imgs/2.png"
+      },
+      {
+        "pagePath": "pages/league/league",
+        "text": "联赛",
+        "iconPath": "imgs/3.png"
+      },
+      {
+        "pagePath": "pages/info/info",
+        "text": "我的",
+        "iconPath": "imgs/4.png"
+      }
+    ]
+  }
+}

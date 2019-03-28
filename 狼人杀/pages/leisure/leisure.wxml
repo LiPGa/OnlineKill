@@ -1,6 +1,0 @@
-<!--pages/leisure/leisure.wxml-->
-
-<view class="index-btn-wrap">
-  <navigator class="index-btn" url="/pages/createroom/createroom" open-type="navigate" hover-class="index-button-hover">创建房间</navigator>
-</view>
-   <!-- <navigator url="/index/index" open-type="switchTab" hover-class="other-navigator-hover">切换 Tab</navigator> -->
